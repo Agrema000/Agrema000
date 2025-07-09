@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @Agrema000
+- 👋 Hi, I’m Abdullahi Grema
 - 👀 I’m a junior but sharp website developer
-- 🌱 I’m currently frontend developer,
+- 🌱 I’m currently a frontend developer,
+- with the skils of,
 - HTML✅
 - CSS✅
 - JAVASCRIPT✅
-- REACT on going..
+- REACT mastering it....
 - 💞️ I’m looking to collaborate with Tech Professionals
+- Love Problem-Solving
 - 📫 How to reach me, https://www.linkedin.com/in/abdullahi-grema-a39274276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 <!---
